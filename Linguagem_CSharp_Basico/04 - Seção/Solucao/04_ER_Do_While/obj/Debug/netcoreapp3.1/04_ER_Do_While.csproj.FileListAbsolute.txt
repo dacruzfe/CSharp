@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\04_ER_Do_While\bin\Debug\netcoreapp3.1\04_ER_Do_While.exe
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\04_ER_Do_While\bin\Debug\netcoreapp3.1\04_ER_Do_While.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\04_ER_Do_While\bin\Debug\netcoreapp3.1\04_ER_Do_While.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\04_ER_Do_While\bin\Debug\netcoreapp3.1\04_ER_Do_While.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\04_ER_Do_While\bin\Debug\netcoreapp3.1\04_ER_Do_While.dll
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\04_ER_Do_While\bin\Debug\netcoreapp3.1\04_ER_Do_While.pdb
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\04_ER_Do_While\obj\Debug\netcoreapp3.1\04_ER_Do_While.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\04_ER_Do_While\obj\Debug\netcoreapp3.1\04_ER_Do_While.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\04_ER_Do_While\obj\Debug\netcoreapp3.1\04_ER_Do_While.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\04_ER_Do_While\obj\Debug\netcoreapp3.1\04_ER_Do_While.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\04_ER_Do_While\obj\Debug\netcoreapp3.1\04_ER_Do_While.dll
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\04_ER_Do_While\obj\Debug\netcoreapp3.1\04_ER_Do_While.pdb
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\04_ER_Do_While\obj\Debug\netcoreapp3.1\04_ER_Do_While.genruntimeconfig.cache

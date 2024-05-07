@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\02_VariavelShortIntLong\bin\Debug\netcoreapp3.1\02_VariavelShortIntLong.exe
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\02_VariavelShortIntLong\bin\Debug\netcoreapp3.1\02_VariavelShortIntLong.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\02_VariavelShortIntLong\bin\Debug\netcoreapp3.1\02_VariavelShortIntLong.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\02_VariavelShortIntLong\bin\Debug\netcoreapp3.1\02_VariavelShortIntLong.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\02_VariavelShortIntLong\bin\Debug\netcoreapp3.1\02_VariavelShortIntLong.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\02_VariavelShortIntLong\bin\Debug\netcoreapp3.1\02_VariavelShortIntLong.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\02_VariavelShortIntLong\obj\Debug\netcoreapp3.1\02_VariavelShortIntLong.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\02_VariavelShortIntLong\obj\Debug\netcoreapp3.1\02_VariavelShortIntLong.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\02_VariavelShortIntLong\obj\Debug\netcoreapp3.1\02_VariavelShortIntLong.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\02_VariavelShortIntLong\obj\Debug\netcoreapp3.1\02_VariavelShortIntLong.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\02_VariavelShortIntLong\obj\Debug\netcoreapp3.1\02_VariavelShortIntLong.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\02_VariavelShortIntLong\obj\Debug\netcoreapp3.1\02_VariavelShortIntLong.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\02_VariavelShortIntLong\obj\Debug\netcoreapp3.1\02_VariavelShortIntLong.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\S2E1 - EntradaSaida\S2E1 - EntradaSaida\bin\Debug\netcoreapp3.1\S2E1 - EntradaSaida.exe
+D:\CSharp\Linguagem_CSharp_Basico\S2E1 - EntradaSaida\S2E1 - EntradaSaida\bin\Debug\netcoreapp3.1\S2E1 - EntradaSaida.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\S2E1 - EntradaSaida\S2E1 - EntradaSaida\bin\Debug\netcoreapp3.1\S2E1 - EntradaSaida.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\S2E1 - EntradaSaida\S2E1 - EntradaSaida\bin\Debug\netcoreapp3.1\S2E1 - EntradaSaida.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\S2E1 - EntradaSaida\S2E1 - EntradaSaida\bin\Debug\netcoreapp3.1\S2E1 - EntradaSaida.dll
+D:\CSharp\Linguagem_CSharp_Basico\S2E1 - EntradaSaida\S2E1 - EntradaSaida\bin\Debug\netcoreapp3.1\S2E1 - EntradaSaida.pdb
+D:\CSharp\Linguagem_CSharp_Basico\S2E1 - EntradaSaida\S2E1 - EntradaSaida\obj\Debug\netcoreapp3.1\S2E1 - EntradaSaida.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\S2E1 - EntradaSaida\S2E1 - EntradaSaida\obj\Debug\netcoreapp3.1\S2E1 - EntradaSaida.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\S2E1 - EntradaSaida\S2E1 - EntradaSaida\obj\Debug\netcoreapp3.1\S2E1 - EntradaSaida.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\S2E1 - EntradaSaida\S2E1 - EntradaSaida\obj\Debug\netcoreapp3.1\S2E1 - EntradaSaida.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\S2E1 - EntradaSaida\S2E1 - EntradaSaida\obj\Debug\netcoreapp3.1\S2E1 - EntradaSaida.dll
+D:\CSharp\Linguagem_CSharp_Basico\S2E1 - EntradaSaida\S2E1 - EntradaSaida\obj\Debug\netcoreapp3.1\S2E1 - EntradaSaida.pdb
+D:\CSharp\Linguagem_CSharp_Basico\S2E1 - EntradaSaida\S2E1 - EntradaSaida\obj\Debug\netcoreapp3.1\S2E1 - EntradaSaida.genruntimeconfig.cache

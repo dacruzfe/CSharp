@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\03_Lista\bin\Debug\netcoreapp3.1\03_Lista.exe
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\03_Lista\bin\Debug\netcoreapp3.1\03_Lista.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\03_Lista\bin\Debug\netcoreapp3.1\03_Lista.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\03_Lista\bin\Debug\netcoreapp3.1\03_Lista.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\03_Lista\bin\Debug\netcoreapp3.1\03_Lista.dll
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\03_Lista\bin\Debug\netcoreapp3.1\03_Lista.pdb
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\03_Lista\obj\Debug\netcoreapp3.1\03_Lista.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\03_Lista\obj\Debug\netcoreapp3.1\03_Lista.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\03_Lista\obj\Debug\netcoreapp3.1\03_Lista.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\03_Lista\obj\Debug\netcoreapp3.1\03_Lista.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\03_Lista\obj\Debug\netcoreapp3.1\03_Lista.dll
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\03_Lista\obj\Debug\netcoreapp3.1\03_Lista.pdb
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\03_Lista\obj\Debug\netcoreapp3.1\03_Lista.genruntimeconfig.cache

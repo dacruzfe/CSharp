@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\08_ConversaoTextoParaNumero\bin\Debug\netcoreapp3.1\08_ConversaoTextoParaNumero.exe
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\08_ConversaoTextoParaNumero\bin\Debug\netcoreapp3.1\08_ConversaoTextoParaNumero.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\08_ConversaoTextoParaNumero\bin\Debug\netcoreapp3.1\08_ConversaoTextoParaNumero.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\08_ConversaoTextoParaNumero\bin\Debug\netcoreapp3.1\08_ConversaoTextoParaNumero.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\08_ConversaoTextoParaNumero\bin\Debug\netcoreapp3.1\08_ConversaoTextoParaNumero.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\08_ConversaoTextoParaNumero\bin\Debug\netcoreapp3.1\08_ConversaoTextoParaNumero.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\08_ConversaoTextoParaNumero\obj\Debug\netcoreapp3.1\08_ConversaoTextoParaNumero.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\08_ConversaoTextoParaNumero\obj\Debug\netcoreapp3.1\08_ConversaoTextoParaNumero.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\08_ConversaoTextoParaNumero\obj\Debug\netcoreapp3.1\08_ConversaoTextoParaNumero.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\08_ConversaoTextoParaNumero\obj\Debug\netcoreapp3.1\08_ConversaoTextoParaNumero.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\08_ConversaoTextoParaNumero\obj\Debug\netcoreapp3.1\08_ConversaoTextoParaNumero.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\08_ConversaoTextoParaNumero\obj\Debug\netcoreapp3.1\08_ConversaoTextoParaNumero.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\08_ConversaoTextoParaNumero\obj\Debug\netcoreapp3.1\08_ConversaoTextoParaNumero.genruntimeconfig.cache

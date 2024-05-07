@@ -1,0 +1,12 @@
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\10_IntroducaoArray\bin\Debug\netcoreapp3.1\10_IntroducaoArray.exe
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\10_IntroducaoArray\bin\Debug\netcoreapp3.1\10_IntroducaoArray.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\10_IntroducaoArray\bin\Debug\netcoreapp3.1\10_IntroducaoArray.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\10_IntroducaoArray\bin\Debug\netcoreapp3.1\10_IntroducaoArray.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\10_IntroducaoArray\bin\Debug\netcoreapp3.1\10_IntroducaoArray.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\10_IntroducaoArray\bin\Debug\netcoreapp3.1\10_IntroducaoArray.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\10_IntroducaoArray\obj\Debug\netcoreapp3.1\10_IntroducaoArray.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\10_IntroducaoArray\obj\Debug\netcoreapp3.1\10_IntroducaoArray.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\10_IntroducaoArray\obj\Debug\netcoreapp3.1\10_IntroducaoArray.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\10_IntroducaoArray\obj\Debug\netcoreapp3.1\10_IntroducaoArray.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\10_IntroducaoArray\obj\Debug\netcoreapp3.1\10_IntroducaoArray.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\10_IntroducaoArray\obj\Debug\netcoreapp3.1\10_IntroducaoArray.genruntimeconfig.cache

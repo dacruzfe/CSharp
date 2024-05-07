@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>01_Exception</id>
+    <version>1.0.0</version>
+    <authors>01_Exception</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\bin\Debug\netcoreapp3.1\01_Exception.runtimeconfig.json" target="lib\netcoreapp3.1\01_Exception.runtimeconfig.json" />
+    <file src="D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\bin\Debug\netcoreapp3.1\01_Exception.dll" target="lib\netcoreapp3.1\01_Exception.dll" />
+  </files>
+</package>

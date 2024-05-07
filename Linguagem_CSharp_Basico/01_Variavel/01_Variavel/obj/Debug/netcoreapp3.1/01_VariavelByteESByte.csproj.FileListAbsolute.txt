@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\01_Variavel\bin\Debug\netcoreapp3.1\01_VariavelByteESByte.exe
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\01_Variavel\bin\Debug\netcoreapp3.1\01_VariavelByteESByte.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\01_Variavel\bin\Debug\netcoreapp3.1\01_VariavelByteESByte.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\01_Variavel\bin\Debug\netcoreapp3.1\01_VariavelByteESByte.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\01_Variavel\bin\Debug\netcoreapp3.1\01_VariavelByteESByte.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\01_Variavel\bin\Debug\netcoreapp3.1\01_VariavelByteESByte.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteESByte.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteESByte.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteESByte.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteESByte.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteESByte.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteESByte.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\01_Variavel\obj\Debug\netcoreapp3.1\01_VariavelByteESByte.genruntimeconfig.cache

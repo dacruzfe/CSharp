@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\Exercicio\S4E1 - POO e EstruturaRepeticao\bin\Debug\netcoreapp3.1\S4E1 - POO e EstruturaRepeticao.exe
+D:\CSharp\Linguagem_CSharp_Basico\Exercicio\S4E1 - POO e EstruturaRepeticao\bin\Debug\netcoreapp3.1\S4E1 - POO e EstruturaRepeticao.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\Exercicio\S4E1 - POO e EstruturaRepeticao\bin\Debug\netcoreapp3.1\S4E1 - POO e EstruturaRepeticao.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\Exercicio\S4E1 - POO e EstruturaRepeticao\bin\Debug\netcoreapp3.1\S4E1 - POO e EstruturaRepeticao.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\Exercicio\S4E1 - POO e EstruturaRepeticao\bin\Debug\netcoreapp3.1\S4E1 - POO e EstruturaRepeticao.dll
+D:\CSharp\Linguagem_CSharp_Basico\Exercicio\S4E1 - POO e EstruturaRepeticao\bin\Debug\netcoreapp3.1\S4E1 - POO e EstruturaRepeticao.pdb
+D:\CSharp\Linguagem_CSharp_Basico\Exercicio\S4E1 - POO e EstruturaRepeticao\obj\Debug\netcoreapp3.1\S4E1 - POO e EstruturaRepeticao.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\Exercicio\S4E1 - POO e EstruturaRepeticao\obj\Debug\netcoreapp3.1\S4E1 - POO e EstruturaRepeticao.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\Exercicio\S4E1 - POO e EstruturaRepeticao\obj\Debug\netcoreapp3.1\S4E1 - POO e EstruturaRepeticao.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\Exercicio\S4E1 - POO e EstruturaRepeticao\obj\Debug\netcoreapp3.1\S4E1 - POO e EstruturaRepeticao.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\Exercicio\S4E1 - POO e EstruturaRepeticao\obj\Debug\netcoreapp3.1\S4E1 - POO e EstruturaRepeticao.dll
+D:\CSharp\Linguagem_CSharp_Basico\Exercicio\S4E1 - POO e EstruturaRepeticao\obj\Debug\netcoreapp3.1\S4E1 - POO e EstruturaRepeticao.pdb
+D:\CSharp\Linguagem_CSharp_Basico\Exercicio\S4E1 - POO e EstruturaRepeticao\obj\Debug\netcoreapp3.1\S4E1 - POO e EstruturaRepeticao.genruntimeconfig.cache

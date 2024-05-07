@@ -1,0 +1,12 @@
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\05_VariavelCharString\bin\Debug\netcoreapp3.1\05_VariavelCharString.exe
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\05_VariavelCharString\bin\Debug\netcoreapp3.1\05_VariavelCharString.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\05_VariavelCharString\bin\Debug\netcoreapp3.1\05_VariavelCharString.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\05_VariavelCharString\bin\Debug\netcoreapp3.1\05_VariavelCharString.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\05_VariavelCharString\bin\Debug\netcoreapp3.1\05_VariavelCharString.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\05_VariavelCharString\bin\Debug\netcoreapp3.1\05_VariavelCharString.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\05_VariavelCharString\obj\Debug\netcoreapp3.1\05_VariavelCharString.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\05_VariavelCharString\obj\Debug\netcoreapp3.1\05_VariavelCharString.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\05_VariavelCharString\obj\Debug\netcoreapp3.1\05_VariavelCharString.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\05_VariavelCharString\obj\Debug\netcoreapp3.1\05_VariavelCharString.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\05_VariavelCharString\obj\Debug\netcoreapp3.1\05_VariavelCharString.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\05_VariavelCharString\obj\Debug\netcoreapp3.1\05_VariavelCharString.genruntimeconfig.cache

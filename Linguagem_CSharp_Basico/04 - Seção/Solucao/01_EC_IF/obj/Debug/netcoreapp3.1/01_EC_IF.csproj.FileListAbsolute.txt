@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\01_EC_IF\01_EC_IF\bin\Debug\netcoreapp3.1\01_EC_IF.exe
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\01_EC_IF\01_EC_IF\bin\Debug\netcoreapp3.1\01_EC_IF.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\01_EC_IF\01_EC_IF\bin\Debug\netcoreapp3.1\01_EC_IF.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\01_EC_IF\01_EC_IF\bin\Debug\netcoreapp3.1\01_EC_IF.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\01_EC_IF\01_EC_IF\bin\Debug\netcoreapp3.1\01_EC_IF.dll
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\01_EC_IF\01_EC_IF\bin\Debug\netcoreapp3.1\01_EC_IF.pdb
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\01_EC_IF\01_EC_IF\obj\Debug\netcoreapp3.1\01_EC_IF.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\01_EC_IF\01_EC_IF\obj\Debug\netcoreapp3.1\01_EC_IF.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\01_EC_IF\01_EC_IF\obj\Debug\netcoreapp3.1\01_EC_IF.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\01_EC_IF\01_EC_IF\obj\Debug\netcoreapp3.1\01_EC_IF.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\01_EC_IF\01_EC_IF\obj\Debug\netcoreapp3.1\01_EC_IF.dll
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\01_EC_IF\01_EC_IF\obj\Debug\netcoreapp3.1\01_EC_IF.pdb
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\01_EC_IF\01_EC_IF\obj\Debug\netcoreapp3.1\01_EC_IF.genruntimeconfig.cache

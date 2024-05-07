@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "01_VariavelByteESByte": {
+      "commandName": "Executable"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

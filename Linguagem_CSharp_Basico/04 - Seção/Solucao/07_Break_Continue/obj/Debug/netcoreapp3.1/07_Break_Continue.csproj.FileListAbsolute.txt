@@ -1,0 +1,12 @@
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\07_Break_Continue\bin\Debug\netcoreapp3.1\07_Break_Continue.exe
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\07_Break_Continue\bin\Debug\netcoreapp3.1\07_Break_Continue.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\07_Break_Continue\bin\Debug\netcoreapp3.1\07_Break_Continue.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\07_Break_Continue\bin\Debug\netcoreapp3.1\07_Break_Continue.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\07_Break_Continue\bin\Debug\netcoreapp3.1\07_Break_Continue.dll
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\07_Break_Continue\bin\Debug\netcoreapp3.1\07_Break_Continue.pdb
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\07_Break_Continue\obj\Debug\netcoreapp3.1\07_Break_Continue.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\07_Break_Continue\obj\Debug\netcoreapp3.1\07_Break_Continue.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\07_Break_Continue\obj\Debug\netcoreapp3.1\07_Break_Continue.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\07_Break_Continue\obj\Debug\netcoreapp3.1\07_Break_Continue.dll
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\07_Break_Continue\obj\Debug\netcoreapp3.1\07_Break_Continue.pdb
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\07_Break_Continue\obj\Debug\netcoreapp3.1\07_Break_Continue.genruntimeconfig.cache

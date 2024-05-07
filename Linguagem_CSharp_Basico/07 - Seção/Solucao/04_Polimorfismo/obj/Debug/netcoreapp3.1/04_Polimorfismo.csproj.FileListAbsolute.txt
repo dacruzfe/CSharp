@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\04_Polimorfismo\bin\Debug\netcoreapp3.1\04_Polimorfismo.exe
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\04_Polimorfismo\bin\Debug\netcoreapp3.1\04_Polimorfismo.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\04_Polimorfismo\bin\Debug\netcoreapp3.1\04_Polimorfismo.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\04_Polimorfismo\bin\Debug\netcoreapp3.1\04_Polimorfismo.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\04_Polimorfismo\bin\Debug\netcoreapp3.1\04_Polimorfismo.dll
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\04_Polimorfismo\bin\Debug\netcoreapp3.1\04_Polimorfismo.pdb
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\04_Polimorfismo\obj\Debug\netcoreapp3.1\04_Polimorfismo.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\04_Polimorfismo\obj\Debug\netcoreapp3.1\04_Polimorfismo.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\04_Polimorfismo\obj\Debug\netcoreapp3.1\04_Polimorfismo.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\04_Polimorfismo\obj\Debug\netcoreapp3.1\04_Polimorfismo.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\04_Polimorfismo\obj\Debug\netcoreapp3.1\04_Polimorfismo.dll
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\04_Polimorfismo\obj\Debug\netcoreapp3.1\04_Polimorfismo.pdb
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\04_Polimorfismo\obj\Debug\netcoreapp3.1\04_Polimorfismo.genruntimeconfig.cache

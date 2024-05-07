@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\02_Sobrescrita\bin\Debug\netcoreapp3.1\02_Sobrescrita.exe
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\02_Sobrescrita\bin\Debug\netcoreapp3.1\02_Sobrescrita.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\02_Sobrescrita\bin\Debug\netcoreapp3.1\02_Sobrescrita.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\02_Sobrescrita\bin\Debug\netcoreapp3.1\02_Sobrescrita.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\02_Sobrescrita\bin\Debug\netcoreapp3.1\02_Sobrescrita.dll
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\02_Sobrescrita\bin\Debug\netcoreapp3.1\02_Sobrescrita.pdb
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\02_Sobrescrita\obj\Debug\netcoreapp3.1\02_Sobrescrita.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\02_Sobrescrita\obj\Debug\netcoreapp3.1\02_Sobrescrita.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\02_Sobrescrita\obj\Debug\netcoreapp3.1\02_Sobrescrita.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\02_Sobrescrita\obj\Debug\netcoreapp3.1\02_Sobrescrita.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\02_Sobrescrita\obj\Debug\netcoreapp3.1\02_Sobrescrita.dll
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\02_Sobrescrita\obj\Debug\netcoreapp3.1\02_Sobrescrita.pdb
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\02_Sobrescrita\obj\Debug\netcoreapp3.1\02_Sobrescrita.genruntimeconfig.cache

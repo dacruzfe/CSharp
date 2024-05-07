@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\bin\Debug\netcoreapp3.1\01_Exception.exe
+D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\bin\Debug\netcoreapp3.1\01_Exception.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\bin\Debug\netcoreapp3.1\01_Exception.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\bin\Debug\netcoreapp3.1\01_Exception.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\bin\Debug\netcoreapp3.1\01_Exception.dll
+D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\bin\Debug\netcoreapp3.1\01_Exception.pdb
+D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\obj\Debug\netcoreapp3.1\01_Exception.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\obj\Debug\netcoreapp3.1\01_Exception.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\obj\Debug\netcoreapp3.1\01_Exception.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\obj\Debug\netcoreapp3.1\01_Exception.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\obj\Debug\netcoreapp3.1\01_Exception.dll
+D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\obj\Debug\netcoreapp3.1\01_Exception.pdb
+D:\CSharp\Linguagem_CSharp_Basico\06 - Seção\Solucao\01_Exception\obj\Debug\netcoreapp3.1\01_Exception.genruntimeconfig.cache

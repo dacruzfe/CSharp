@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\05_ER_For\bin\Debug\netcoreapp3.1\05_ER_For.exe
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\05_ER_For\bin\Debug\netcoreapp3.1\05_ER_For.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\05_ER_For\bin\Debug\netcoreapp3.1\05_ER_For.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\05_ER_For\bin\Debug\netcoreapp3.1\05_ER_For.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\05_ER_For\bin\Debug\netcoreapp3.1\05_ER_For.dll
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\05_ER_For\bin\Debug\netcoreapp3.1\05_ER_For.pdb
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\05_ER_For\obj\Debug\netcoreapp3.1\05_ER_For.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\05_ER_For\obj\Debug\netcoreapp3.1\05_ER_For.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\05_ER_For\obj\Debug\netcoreapp3.1\05_ER_For.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\05_ER_For\obj\Debug\netcoreapp3.1\05_ER_For.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\05_ER_For\obj\Debug\netcoreapp3.1\05_ER_For.dll
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\05_ER_For\obj\Debug\netcoreapp3.1\05_ER_For.pdb
+D:\CSharp\Linguagem_CSharp_Basico\04 - Seção\Solucao\05_ER_For\obj\Debug\netcoreapp3.1\05_ER_For.genruntimeconfig.cache

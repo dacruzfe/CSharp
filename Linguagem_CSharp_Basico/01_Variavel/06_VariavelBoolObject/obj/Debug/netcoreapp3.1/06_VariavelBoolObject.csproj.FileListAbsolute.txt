@@ -1,0 +1,12 @@
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\06_VariavelBoolObject\bin\Debug\netcoreapp3.1\06_VariavelBoolObject.exe
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\06_VariavelBoolObject\bin\Debug\netcoreapp3.1\06_VariavelBoolObject.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\06_VariavelBoolObject\bin\Debug\netcoreapp3.1\06_VariavelBoolObject.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\06_VariavelBoolObject\bin\Debug\netcoreapp3.1\06_VariavelBoolObject.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\06_VariavelBoolObject\bin\Debug\netcoreapp3.1\06_VariavelBoolObject.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\06_VariavelBoolObject\bin\Debug\netcoreapp3.1\06_VariavelBoolObject.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\06_VariavelBoolObject\obj\Debug\netcoreapp3.1\06_VariavelBoolObject.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\06_VariavelBoolObject\obj\Debug\netcoreapp3.1\06_VariavelBoolObject.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\06_VariavelBoolObject\obj\Debug\netcoreapp3.1\06_VariavelBoolObject.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\06_VariavelBoolObject\obj\Debug\netcoreapp3.1\06_VariavelBoolObject.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\06_VariavelBoolObject\obj\Debug\netcoreapp3.1\06_VariavelBoolObject.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\06_VariavelBoolObject\obj\Debug\netcoreapp3.1\06_VariavelBoolObject.genruntimeconfig.cache

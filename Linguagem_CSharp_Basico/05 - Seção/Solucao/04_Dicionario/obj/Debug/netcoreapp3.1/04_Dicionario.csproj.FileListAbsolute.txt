@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\04_Dicionario\bin\Debug\netcoreapp3.1\04_Dicionario.exe
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\04_Dicionario\bin\Debug\netcoreapp3.1\04_Dicionario.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\04_Dicionario\bin\Debug\netcoreapp3.1\04_Dicionario.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\04_Dicionario\bin\Debug\netcoreapp3.1\04_Dicionario.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\04_Dicionario\bin\Debug\netcoreapp3.1\04_Dicionario.dll
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\04_Dicionario\bin\Debug\netcoreapp3.1\04_Dicionario.pdb
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\04_Dicionario\obj\Debug\netcoreapp3.1\04_Dicionario.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\04_Dicionario\obj\Debug\netcoreapp3.1\04_Dicionario.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\04_Dicionario\obj\Debug\netcoreapp3.1\04_Dicionario.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\04_Dicionario\obj\Debug\netcoreapp3.1\04_Dicionario.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\04_Dicionario\obj\Debug\netcoreapp3.1\04_Dicionario.dll
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\04_Dicionario\obj\Debug\netcoreapp3.1\04_Dicionario.pdb
+D:\CSharp\Linguagem_CSharp_Basico\05 - Seção\Solucao\04_Dicionario\obj\Debug\netcoreapp3.1\04_Dicionario.genruntimeconfig.cache

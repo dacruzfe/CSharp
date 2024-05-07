@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\05_Construtor\bin\Debug\netcoreapp3.1\05_Construtor.exe
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\05_Construtor\bin\Debug\netcoreapp3.1\05_Construtor.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\05_Construtor\bin\Debug\netcoreapp3.1\05_Construtor.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\05_Construtor\bin\Debug\netcoreapp3.1\05_Construtor.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\05_Construtor\bin\Debug\netcoreapp3.1\05_Construtor.dll
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\05_Construtor\bin\Debug\netcoreapp3.1\05_Construtor.pdb
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\05_Construtor\obj\Debug\netcoreapp3.1\05_Construtor.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\05_Construtor\obj\Debug\netcoreapp3.1\05_Construtor.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\05_Construtor\obj\Debug\netcoreapp3.1\05_Construtor.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\05_Construtor\obj\Debug\netcoreapp3.1\05_Construtor.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\05_Construtor\obj\Debug\netcoreapp3.1\05_Construtor.dll
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\05_Construtor\obj\Debug\netcoreapp3.1\05_Construtor.pdb
+D:\CSharp\Linguagem_CSharp_Basico\07 - Seção\Solucao\05_Construtor\obj\Debug\netcoreapp3.1\05_Construtor.genruntimeconfig.cache

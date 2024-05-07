@@ -1,0 +1,12 @@
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\07_Constante\bin\Debug\netcoreapp3.1\07_Constante.exe
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\07_Constante\bin\Debug\netcoreapp3.1\07_Constante.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\07_Constante\bin\Debug\netcoreapp3.1\07_Constante.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\07_Constante\bin\Debug\netcoreapp3.1\07_Constante.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\07_Constante\bin\Debug\netcoreapp3.1\07_Constante.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\07_Constante\bin\Debug\netcoreapp3.1\07_Constante.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\07_Constante\obj\Debug\netcoreapp3.1\07_Constante.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\07_Constante\obj\Debug\netcoreapp3.1\07_Constante.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\07_Constante\obj\Debug\netcoreapp3.1\07_Constante.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\07_Constante\obj\Debug\netcoreapp3.1\07_Constante.dll
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\07_Constante\obj\Debug\netcoreapp3.1\07_Constante.pdb
+D:\CSharp\Linguagem_CSharp_Basico\01_Variavel\07_Constante\obj\Debug\netcoreapp3.1\07_Constante.genruntimeconfig.cache
