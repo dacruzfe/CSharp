@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\03_OperadoresRelacionais\bin\Debug\netcoreapp3.1\03_OperadoresRelacionais.exe
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\03_OperadoresRelacionais\bin\Debug\netcoreapp3.1\03_OperadoresRelacionais.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\03_OperadoresRelacionais\bin\Debug\netcoreapp3.1\03_OperadoresRelacionais.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\03_OperadoresRelacionais\bin\Debug\netcoreapp3.1\03_OperadoresRelacionais.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\03_OperadoresRelacionais\bin\Debug\netcoreapp3.1\03_OperadoresRelacionais.dll
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\03_OperadoresRelacionais\bin\Debug\netcoreapp3.1\03_OperadoresRelacionais.pdb
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\03_OperadoresRelacionais\obj\Debug\netcoreapp3.1\03_OperadoresRelacionais.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\03_OperadoresRelacionais\obj\Debug\netcoreapp3.1\03_OperadoresRelacionais.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\03_OperadoresRelacionais\obj\Debug\netcoreapp3.1\03_OperadoresRelacionais.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\03_OperadoresRelacionais\obj\Debug\netcoreapp3.1\03_OperadoresRelacionais.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\03_OperadoresRelacionais\obj\Debug\netcoreapp3.1\03_OperadoresRelacionais.dll
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\03_OperadoresRelacionais\obj\Debug\netcoreapp3.1\03_OperadoresRelacionais.pdb
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\03_OperadoresRelacionais\obj\Debug\netcoreapp3.1\03_OperadoresRelacionais.genruntimeconfig.cache

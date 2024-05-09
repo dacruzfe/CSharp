@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\02_OperadoresAtribuicao\bin\Debug\netcoreapp3.1\02_OperadoresAtribuicao.exe
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\02_OperadoresAtribuicao\bin\Debug\netcoreapp3.1\02_OperadoresAtribuicao.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\02_OperadoresAtribuicao\bin\Debug\netcoreapp3.1\02_OperadoresAtribuicao.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\02_OperadoresAtribuicao\bin\Debug\netcoreapp3.1\02_OperadoresAtribuicao.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\02_OperadoresAtribuicao\bin\Debug\netcoreapp3.1\02_OperadoresAtribuicao.dll
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\02_OperadoresAtribuicao\bin\Debug\netcoreapp3.1\02_OperadoresAtribuicao.pdb
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\02_OperadoresAtribuicao\obj\Debug\netcoreapp3.1\02_OperadoresAtribuicao.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\02_OperadoresAtribuicao\obj\Debug\netcoreapp3.1\02_OperadoresAtribuicao.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\02_OperadoresAtribuicao\obj\Debug\netcoreapp3.1\02_OperadoresAtribuicao.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\02_OperadoresAtribuicao\obj\Debug\netcoreapp3.1\02_OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\02_OperadoresAtribuicao\obj\Debug\netcoreapp3.1\02_OperadoresAtribuicao.dll
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\02_OperadoresAtribuicao\obj\Debug\netcoreapp3.1\02_OperadoresAtribuicao.pdb
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\02_OperadoresAtribuicao\obj\Debug\netcoreapp3.1\02_OperadoresAtribuicao.genruntimeconfig.cache

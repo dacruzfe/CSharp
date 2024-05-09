@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\01_OperadoresAritimeticos\bin\Debug\netcoreapp3.1\01_OperadoresAritimeticos.exe
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\01_OperadoresAritimeticos\bin\Debug\netcoreapp3.1\01_OperadoresAritimeticos.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\01_OperadoresAritimeticos\bin\Debug\netcoreapp3.1\01_OperadoresAritimeticos.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\01_OperadoresAritimeticos\bin\Debug\netcoreapp3.1\01_OperadoresAritimeticos.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\01_OperadoresAritimeticos\bin\Debug\netcoreapp3.1\01_OperadoresAritimeticos.dll
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\01_OperadoresAritimeticos\bin\Debug\netcoreapp3.1\01_OperadoresAritimeticos.pdb
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\01_OperadoresAritimeticos\obj\Debug\netcoreapp3.1\01_OperadoresAritimeticos.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\01_OperadoresAritimeticos\obj\Debug\netcoreapp3.1\01_OperadoresAritimeticos.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\01_OperadoresAritimeticos\obj\Debug\netcoreapp3.1\01_OperadoresAritimeticos.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\01_OperadoresAritimeticos\obj\Debug\netcoreapp3.1\01_OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\01_OperadoresAritimeticos\obj\Debug\netcoreapp3.1\01_OperadoresAritimeticos.dll
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\01_OperadoresAritimeticos\obj\Debug\netcoreapp3.1\01_OperadoresAritimeticos.pdb
+D:\CSharp\Linguagem_CSharp_Basico\09 - Seção\Solucao\01_OperadoresAritimeticos\obj\Debug\netcoreapp3.1\01_OperadoresAritimeticos.genruntimeconfig.cache
