@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\02_SubstituirTexto\bin\Debug\netcoreapp3.1\02_SubstituirTexto.exe
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\02_SubstituirTexto\bin\Debug\netcoreapp3.1\02_SubstituirTexto.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\02_SubstituirTexto\bin\Debug\netcoreapp3.1\02_SubstituirTexto.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\02_SubstituirTexto\bin\Debug\netcoreapp3.1\02_SubstituirTexto.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\02_SubstituirTexto\bin\Debug\netcoreapp3.1\02_SubstituirTexto.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\02_SubstituirTexto\bin\Debug\netcoreapp3.1\02_SubstituirTexto.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\02_SubstituirTexto\obj\Debug\netcoreapp3.1\02_SubstituirTexto.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\02_SubstituirTexto\obj\Debug\netcoreapp3.1\02_SubstituirTexto.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\02_SubstituirTexto\obj\Debug\netcoreapp3.1\02_SubstituirTexto.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\02_SubstituirTexto\obj\Debug\netcoreapp3.1\02_SubstituirTexto.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\02_SubstituirTexto\obj\Debug\netcoreapp3.1\02_SubstituirTexto.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\02_SubstituirTexto\obj\Debug\netcoreapp3.1\02_SubstituirTexto.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\02_SubstituirTexto\obj\Debug\netcoreapp3.1\02_SubstituirTexto.genruntimeconfig.cache

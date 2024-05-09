@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\01_LocalizarTexto\bin\Debug\netcoreapp3.1\01_LocalizarTexto.exe
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\01_LocalizarTexto\bin\Debug\netcoreapp3.1\01_LocalizarTexto.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\01_LocalizarTexto\bin\Debug\netcoreapp3.1\01_LocalizarTexto.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\01_LocalizarTexto\bin\Debug\netcoreapp3.1\01_LocalizarTexto.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\01_LocalizarTexto\bin\Debug\netcoreapp3.1\01_LocalizarTexto.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\01_LocalizarTexto\bin\Debug\netcoreapp3.1\01_LocalizarTexto.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\01_LocalizarTexto\obj\Debug\netcoreapp3.1\01_LocalizarTexto.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\01_LocalizarTexto\obj\Debug\netcoreapp3.1\01_LocalizarTexto.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\01_LocalizarTexto\obj\Debug\netcoreapp3.1\01_LocalizarTexto.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\01_LocalizarTexto\obj\Debug\netcoreapp3.1\01_LocalizarTexto.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\01_LocalizarTexto\obj\Debug\netcoreapp3.1\01_LocalizarTexto.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\01_LocalizarTexto\obj\Debug\netcoreapp3.1\01_LocalizarTexto.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\01_LocalizarTexto\obj\Debug\netcoreapp3.1\01_LocalizarTexto.genruntimeconfig.cache

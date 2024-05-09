@@ -1,0 +1,12 @@
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\06_RemoverEspaco\bin\Debug\netcoreapp3.1\06_RemoverEspaco.exe
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\06_RemoverEspaco\bin\Debug\netcoreapp3.1\06_RemoverEspaco.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\06_RemoverEspaco\bin\Debug\netcoreapp3.1\06_RemoverEspaco.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\06_RemoverEspaco\bin\Debug\netcoreapp3.1\06_RemoverEspaco.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\06_RemoverEspaco\bin\Debug\netcoreapp3.1\06_RemoverEspaco.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\06_RemoverEspaco\bin\Debug\netcoreapp3.1\06_RemoverEspaco.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\06_RemoverEspaco\obj\Debug\netcoreapp3.1\06_RemoverEspaco.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\06_RemoverEspaco\obj\Debug\netcoreapp3.1\06_RemoverEspaco.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\06_RemoverEspaco\obj\Debug\netcoreapp3.1\06_RemoverEspaco.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\06_RemoverEspaco\obj\Debug\netcoreapp3.1\06_RemoverEspaco.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\06_RemoverEspaco\obj\Debug\netcoreapp3.1\06_RemoverEspaco.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\06_RemoverEspaco\obj\Debug\netcoreapp3.1\06_RemoverEspaco.genruntimeconfig.cache

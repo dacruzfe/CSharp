@@ -1,0 +1,12 @@
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\05_MudarCase\bin\Debug\netcoreapp3.1\05_MudarCase.exe
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\05_MudarCase\bin\Debug\netcoreapp3.1\05_MudarCase.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\05_MudarCase\bin\Debug\netcoreapp3.1\05_MudarCase.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\05_MudarCase\bin\Debug\netcoreapp3.1\05_MudarCase.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\05_MudarCase\bin\Debug\netcoreapp3.1\05_MudarCase.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\05_MudarCase\bin\Debug\netcoreapp3.1\05_MudarCase.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\05_MudarCase\obj\Debug\netcoreapp3.1\05_MudarCase.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\05_MudarCase\obj\Debug\netcoreapp3.1\05_MudarCase.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\05_MudarCase\obj\Debug\netcoreapp3.1\05_MudarCase.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\05_MudarCase\obj\Debug\netcoreapp3.1\05_MudarCase.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\05_MudarCase\obj\Debug\netcoreapp3.1\05_MudarCase.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\05_MudarCase\obj\Debug\netcoreapp3.1\05_MudarCase.genruntimeconfig.cache

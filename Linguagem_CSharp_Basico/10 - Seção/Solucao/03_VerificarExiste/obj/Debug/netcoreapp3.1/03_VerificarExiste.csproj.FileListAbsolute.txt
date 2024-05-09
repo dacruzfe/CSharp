@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\03_VerificarExiste\bin\Debug\netcoreapp3.1\03_VerificarExiste.exe
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\03_VerificarExiste\bin\Debug\netcoreapp3.1\03_VerificarExiste.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\03_VerificarExiste\bin\Debug\netcoreapp3.1\03_VerificarExiste.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\03_VerificarExiste\bin\Debug\netcoreapp3.1\03_VerificarExiste.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\03_VerificarExiste\bin\Debug\netcoreapp3.1\03_VerificarExiste.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\03_VerificarExiste\bin\Debug\netcoreapp3.1\03_VerificarExiste.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\03_VerificarExiste\obj\Debug\netcoreapp3.1\03_VerificarExiste.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\03_VerificarExiste\obj\Debug\netcoreapp3.1\03_VerificarExiste.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\03_VerificarExiste\obj\Debug\netcoreapp3.1\03_VerificarExiste.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\03_VerificarExiste\obj\Debug\netcoreapp3.1\03_VerificarExiste.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\03_VerificarExiste\obj\Debug\netcoreapp3.1\03_VerificarExiste.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\03_VerificarExiste\obj\Debug\netcoreapp3.1\03_VerificarExiste.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\03_VerificarExiste\obj\Debug\netcoreapp3.1\03_VerificarExiste.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\07_DividirTexto\bin\Debug\netcoreapp3.1\07_DividirTexto.exe
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\07_DividirTexto\bin\Debug\netcoreapp3.1\07_DividirTexto.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\07_DividirTexto\bin\Debug\netcoreapp3.1\07_DividirTexto.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\07_DividirTexto\bin\Debug\netcoreapp3.1\07_DividirTexto.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\07_DividirTexto\bin\Debug\netcoreapp3.1\07_DividirTexto.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\07_DividirTexto\bin\Debug\netcoreapp3.1\07_DividirTexto.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\07_DividirTexto\obj\Debug\netcoreapp3.1\07_DividirTexto.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\07_DividirTexto\obj\Debug\netcoreapp3.1\07_DividirTexto.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\07_DividirTexto\obj\Debug\netcoreapp3.1\07_DividirTexto.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\07_DividirTexto\obj\Debug\netcoreapp3.1\07_DividirTexto.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\07_DividirTexto\obj\Debug\netcoreapp3.1\07_DividirTexto.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\07_DividirTexto\obj\Debug\netcoreapp3.1\07_DividirTexto.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\04_FormatarTexto\bin\Debug\netcoreapp3.1\04_FormatarTexto.exe
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\04_FormatarTexto\bin\Debug\netcoreapp3.1\04_FormatarTexto.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\04_FormatarTexto\bin\Debug\netcoreapp3.1\04_FormatarTexto.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\04_FormatarTexto\bin\Debug\netcoreapp3.1\04_FormatarTexto.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\04_FormatarTexto\bin\Debug\netcoreapp3.1\04_FormatarTexto.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\04_FormatarTexto\bin\Debug\netcoreapp3.1\04_FormatarTexto.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\04_FormatarTexto\obj\Debug\netcoreapp3.1\04_FormatarTexto.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\04_FormatarTexto\obj\Debug\netcoreapp3.1\04_FormatarTexto.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\04_FormatarTexto\obj\Debug\netcoreapp3.1\04_FormatarTexto.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\04_FormatarTexto\obj\Debug\netcoreapp3.1\04_FormatarTexto.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\04_FormatarTexto\obj\Debug\netcoreapp3.1\04_FormatarTexto.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\04_FormatarTexto\obj\Debug\netcoreapp3.1\04_FormatarTexto.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\04_FormatarTexto\obj\Debug\netcoreapp3.1\04_FormatarTexto.genruntimeconfig.cache

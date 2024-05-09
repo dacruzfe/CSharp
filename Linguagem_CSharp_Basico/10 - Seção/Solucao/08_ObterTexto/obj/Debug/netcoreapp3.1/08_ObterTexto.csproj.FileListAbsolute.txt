@@ -1,0 +1,12 @@
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\08_ObterTexto\bin\Debug\netcoreapp3.1\08_ObterTexto.exe
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\08_ObterTexto\bin\Debug\netcoreapp3.1\08_ObterTexto.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\08_ObterTexto\bin\Debug\netcoreapp3.1\08_ObterTexto.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\08_ObterTexto\bin\Debug\netcoreapp3.1\08_ObterTexto.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\08_ObterTexto\bin\Debug\netcoreapp3.1\08_ObterTexto.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\08_ObterTexto\bin\Debug\netcoreapp3.1\08_ObterTexto.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\08_ObterTexto\obj\Debug\netcoreapp3.1\08_ObterTexto.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\08_ObterTexto\obj\Debug\netcoreapp3.1\08_ObterTexto.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\08_ObterTexto\obj\Debug\netcoreapp3.1\08_ObterTexto.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\08_ObterTexto\obj\Debug\netcoreapp3.1\08_ObterTexto.dll
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\08_ObterTexto\obj\Debug\netcoreapp3.1\08_ObterTexto.pdb
+D:\CSharp\Linguagem_CSharp_Basico\10 - Seção\Solucao\08_ObterTexto\obj\Debug\netcoreapp3.1\08_ObterTexto.genruntimeconfig.cache
