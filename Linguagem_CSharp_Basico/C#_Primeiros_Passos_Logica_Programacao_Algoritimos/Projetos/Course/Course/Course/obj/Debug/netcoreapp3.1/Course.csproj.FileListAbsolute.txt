@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Projetos\Course\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Projetos\Course\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Projetos\Course\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Projetos\Course\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Projetos\Course\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Projetos\Course\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
