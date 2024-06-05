@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicios_uri\Uri1015\Uri1015\bin\Debug\netcoreapp3.1\Uri1015.exe
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicios_uri\Uri1015\Uri1015\bin\Debug\netcoreapp3.1\Uri1015.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicios_uri\Uri1015\Uri1015\bin\Debug\netcoreapp3.1\Uri1015.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicios_uri\Uri1015\Uri1015\bin\Debug\netcoreapp3.1\Uri1015.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicios_uri\Uri1015\Uri1015\bin\Debug\netcoreapp3.1\Uri1015.dll
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicios_uri\Uri1015\Uri1015\bin\Debug\netcoreapp3.1\Uri1015.pdb
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicios_uri\Uri1015\Uri1015\obj\Debug\netcoreapp3.1\Uri1015.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicios_uri\Uri1015\Uri1015\obj\Debug\netcoreapp3.1\Uri1015.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicios_uri\Uri1015\Uri1015\obj\Debug\netcoreapp3.1\Uri1015.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicios_uri\Uri1015\Uri1015\obj\Debug\netcoreapp3.1\Uri1015.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicios_uri\Uri1015\Uri1015\obj\Debug\netcoreapp3.1\Uri1015.dll
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicios_uri\Uri1015\Uri1015\obj\Debug\netcoreapp3.1\Uri1015.pdb
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicios_uri\Uri1015\Uri1015\obj\Debug\netcoreapp3.1\Uri1015.genruntimeconfig.cache
