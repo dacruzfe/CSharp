@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio04\Nota_Aluno\Nota_Aluno\bin\Debug\netcoreapp3.1\Nota_Aluno.exe
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio04\Nota_Aluno\Nota_Aluno\bin\Debug\netcoreapp3.1\Nota_Aluno.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio04\Nota_Aluno\Nota_Aluno\bin\Debug\netcoreapp3.1\Nota_Aluno.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio04\Nota_Aluno\Nota_Aluno\bin\Debug\netcoreapp3.1\Nota_Aluno.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio04\Nota_Aluno\Nota_Aluno\bin\Debug\netcoreapp3.1\Nota_Aluno.dll
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio04\Nota_Aluno\Nota_Aluno\bin\Debug\netcoreapp3.1\Nota_Aluno.pdb
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio04\Nota_Aluno\Nota_Aluno\obj\Debug\netcoreapp3.1\Nota_Aluno.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio04\Nota_Aluno\Nota_Aluno\obj\Debug\netcoreapp3.1\Nota_Aluno.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio04\Nota_Aluno\Nota_Aluno\obj\Debug\netcoreapp3.1\Nota_Aluno.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio04\Nota_Aluno\Nota_Aluno\obj\Debug\netcoreapp3.1\Nota_Aluno.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio04\Nota_Aluno\Nota_Aluno\obj\Debug\netcoreapp3.1\Nota_Aluno.dll
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio04\Nota_Aluno\Nota_Aluno\obj\Debug\netcoreapp3.1\Nota_Aluno.pdb
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio04\Nota_Aluno\Nota_Aluno\obj\Debug\netcoreapp3.1\Nota_Aluno.genruntimeconfig.cache

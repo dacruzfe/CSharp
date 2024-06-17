@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio07\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.exe
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio07\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio07\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio07\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio07\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.dll
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio07\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.pdb
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio07\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio07\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio07\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio07\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio07\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio07\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicio07\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.genruntimeconfig.cache
