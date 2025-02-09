@@ -1,0 +1,13 @@
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicicos_Aula\Exercicio13\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.exe
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicicos_Aula\Exercicio13\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.deps.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicicos_Aula\Exercicio13\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicicos_Aula\Exercicio13\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.dev.json
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicicos_Aula\Exercicio13\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.dll
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicicos_Aula\Exercicio13\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.pdb
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicicos_Aula\Exercicio13\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.csproj.AssemblyReference.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicicos_Aula\Exercicio13\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfoInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicicos_Aula\Exercicio13\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfo.cs
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicicos_Aula\Exercicio13\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.csproj.CoreCompileInputs.cache
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicicos_Aula\Exercicio13\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.dll
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicicos_Aula\Exercicio13\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.pdb
+D:\CSharp\Linguagem_CSharp_Basico\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\Exercicios\Exercicicos_Aula\Exercicio13\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.genruntimeconfig.cache

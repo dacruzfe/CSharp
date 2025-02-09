@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp\\Linguagem_CSharp_Basico\\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\\Exercicios\\Exercicicos_Aula\\Exercicio12\\Vetor\\Vetor\\Vetor.csproj": {}
+    "D:\\CSharp\\Linguagem_CSharp_Basico\\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\\Exercicios\\Exercicicos_Aula\\Exercicio14\\Exercicio14\\Exercicio14\\Exercicio14.csproj": {}
   },
   "projects": {
-    "D:\\CSharp\\Linguagem_CSharp_Basico\\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\\Exercicios\\Exercicicos_Aula\\Exercicio12\\Vetor\\Vetor\\Vetor.csproj": {
+    "D:\\CSharp\\Linguagem_CSharp_Basico\\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\\Exercicios\\Exercicicos_Aula\\Exercicio14\\Exercicio14\\Exercicio14\\Exercicio14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp\\Linguagem_CSharp_Basico\\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\\Exercicios\\Exercicicos_Aula\\Exercicio12\\Vetor\\Vetor\\Vetor.csproj",
-        "projectName": "Vetor",
-        "projectPath": "D:\\CSharp\\Linguagem_CSharp_Basico\\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\\Exercicios\\Exercicicos_Aula\\Exercicio12\\Vetor\\Vetor\\Vetor.csproj",
+        "projectUniqueName": "D:\\CSharp\\Linguagem_CSharp_Basico\\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\\Exercicios\\Exercicicos_Aula\\Exercicio14\\Exercicio14\\Exercicio14\\Exercicio14.csproj",
+        "projectName": "Exercicio14",
+        "projectPath": "D:\\CSharp\\Linguagem_CSharp_Basico\\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\\Exercicios\\Exercicicos_Aula\\Exercicio14\\Exercicio14\\Exercicio14\\Exercicio14.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp\\Linguagem_CSharp_Basico\\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\\Exercicios\\Exercicicos_Aula\\Exercicio12\\Vetor\\Vetor\\obj\\",
+        "outputPath": "D:\\CSharp\\Linguagem_CSharp_Basico\\C#_Primeiros_Passos_Logica_Programacao_Algoritimos\\Exercicios\\Exercicicos_Aula\\Exercicio14\\Exercicio14\\Exercicio14\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nugetbackup.org/feed/v3/index.json": {}
         },
@@ -40,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -56,8 +50,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -66,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
         }
       }
     }
