@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CursoCSharpTesteCalculadoraConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82001e98bcb332422dcc55cda3943d8eeeced0e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b19c8fbb5c71e7aee5aa8657444fb0856b6d85b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CursoCSharpTesteCalculadoraConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CursoCSharpTesteCalculadoraConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
